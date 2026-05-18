@@ -1,4 +1,4 @@
-# my [profile] (https://roadmap.sh/u/alall)
+# my [profile](https://roadmap.sh/u/alall)
 
 ## projects to work on:
 ### linux roadmap
